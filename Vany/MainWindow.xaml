@@ -86,7 +86,7 @@
             <ImageBrush ImageSource="20498094.jpg" Stretch="UniformToFill" />
         </Grid.Background>
         <TextBlock HorizontalAlignment="Left" Height="68" Margin="206,10,0,0" TextWrapping="Wrap" Text="HoYoLab" VerticalAlignment="Top" Width="380" FontSize="48" Foreground="White" TextAlignment="Center"/>
-        <Image x:Name="image2" Margin="-207,-99,-207,170" Source="Image1.png" Stretch="UniformToFill" RenderTransformOrigin="0.5,0.5">
+        <Image x:Name="image2" Margin="-207,-99,-207,170" Source="image1.jpg" Stretch="UniformToFill" RenderTransformOrigin="0.5,0.5">
             <Image.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform ScaleX="0.5" ScaleY="0.5"/>
@@ -96,7 +96,7 @@
                 </TransformGroup>
             </Image.RenderTransform>
         </Image>
-        <Image x:Name="image1" Margin="-207,-54,-206,309" Source="Image2.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5">
+        <Image x:Name="image1" Margin="-207,-54,-206,309" Source="image2.jpg" Stretch="Fill" RenderTransformOrigin="0.5,0.5">
             <Image.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform ScaleX="0.5" ScaleY="0.5"/>
@@ -106,7 +106,7 @@
                 </TransformGroup>
             </Image.RenderTransform>
         </Image>
-        <Image x:Name="image" Margin="-117,-64,-119,211" Source="Image4.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5">
+        <Image x:Name="image" Margin="-117,-64,-119,211" Source="image4.jpg" Stretch="Fill" RenderTransformOrigin="0.5,0.5">
             <Image.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform ScaleX="0.55" ScaleY="0.55"/>
