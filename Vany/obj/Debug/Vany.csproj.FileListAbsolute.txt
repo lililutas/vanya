@@ -1,0 +1,15 @@
+C:\Users\pozit\source\repos\Vany\Vany\bin\Debug\Vany.exe.config
+C:\Users\pozit\source\repos\Vany\Vany\bin\Debug\Vany.exe
+C:\Users\pozit\source\repos\Vany\Vany\bin\Debug\Vany.pdb
+C:\Users\pozit\source\repos\Vany\Vany\obj\Debug\Vany.csprojAssemblyReference.cache
+C:\Users\pozit\source\repos\Vany\Vany\obj\Debug\MainWindow.g.cs
+C:\Users\pozit\source\repos\Vany\Vany\obj\Debug\App.g.cs
+C:\Users\pozit\source\repos\Vany\Vany\obj\Debug\Vany_MarkupCompile.cache
+C:\Users\pozit\source\repos\Vany\Vany\obj\Debug\Vany_MarkupCompile.lref
+C:\Users\pozit\source\repos\Vany\Vany\obj\Debug\MainWindow.baml
+C:\Users\pozit\source\repos\Vany\Vany\obj\Debug\Vany.g.resources
+C:\Users\pozit\source\repos\Vany\Vany\obj\Debug\Vany.Properties.Resources.resources
+C:\Users\pozit\source\repos\Vany\Vany\obj\Debug\Vany.csproj.GenerateResource.cache
+C:\Users\pozit\source\repos\Vany\Vany\obj\Debug\Vany.csproj.CoreCompileInputs.cache
+C:\Users\pozit\source\repos\Vany\Vany\obj\Debug\Vany.exe
+C:\Users\pozit\source\repos\Vany\Vany\obj\Debug\Vany.pdb
